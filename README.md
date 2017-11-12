@@ -4,7 +4,7 @@
 
 ### Teoria
 
-1. [Grafo di Holt](http://svel.to/oh7), [TEST](http://svel.to/ojf)
+1. [Grafo di Holt](http://svel.to/oh7), [TEST](http://svel.to/ose)
 2. [Deadlock](http://svel.to/olm)
 
 ### Laboratorio
