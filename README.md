@@ -24,3 +24,5 @@
 ### Laboratorio
 
 1. [Fork](http://svel.to/pua)
+2. [Collections, Generics and Thread-Safety in java](http://svel.to/mzf)
+3. [Streams in Parallel](http://svel.to/s9v)
